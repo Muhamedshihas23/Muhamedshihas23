@@ -1,84 +1,43 @@
-<h1 align="center">Hi, I'm Muhamed Shihas 👋</h1>
-<h3 align="center">Junior DevOps Engineer | Cloud & Infrastructure | Kerala, India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&width=600&lines=Hi%2C+I'm+Muhamed+Shihas+%F0%9F%91%8B;Junior+DevOps+Engineer;Cloud+%26+Infrastructure+Builder" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  MCA Final Year @ LEAD College, Palakkad  • 
-  DevOps Intern @ Cyber Square AI & Robotics, Kozhikode
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=flat&labelColor=E1F5EE" />
+  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-378ADD?style=flat" />
+  <img src="https://img.shields.io/badge/Intern%20@-Cyber%20Square%20AI-7B42BC?style=flat" />
+</p>
+
+<p align="center">
+  MCA Final Year @ LEAD College, Palakkad &nbsp;•&nbsp; DevOps Intern @ Cyber Square AI & Robotics Pvt Ltd, Kozhikode
 </p>
 
 ---
 
 ### About Me
 
-- 🚀 Passionate about **CI/CD pipelines, container orchestration & IaC**
-- 🐳 Hands-on with **Docker, Kubernetes, Ansible, Terraform & AWS**
-- 🔧 Built real-world projects: Jenkins pipelines, Docker Compose apps, blockchain node deployment
-- 📚 Currently deepening skills in **Kubernetes & AWX**
-- 🎯 Actively seeking **Junior DevOps / Cloud Engineer** roles
+- Passionate about CI/CD pipelines, container orchestration & IaC
+- Hands-on with Docker, Kubernetes, Ansible, Terraform & AWS
+- Built real-world projects: Jenkins pipelines, Docker Compose apps
+- Currently deepening skills in Kubernetes & AWX
+- Actively seeking Junior DevOps / Cloud Engineer roles
 
 ---
 
 ### Tech Stack
 
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-
-**CI/CD & Automation**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Cloud & IaC**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-**Monitoring**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [CI-CD-Pipeline](https://github.com/Muhamedshihas23/CI-CD-pipeline) | Automated build & deploy pipeline | Jenkins, Python, GitHub |
-| [Jenkins + Docker Compose](https://github.com/Muhamedshihas23/jenkins-compose-demo) | Jenkins CI integrated with Docker Compose | Jenkins, Docker, Python |
-| [WordPress + MySQL on Docker](https://github.com/Muhamedshihas23/Wordpress-MySQL-using-Docker-compose) | Multi-container app with persistent volumes | Docker Compose, MySQL |
-| [Handwritten Detection](https://github.com/Muhamedshihas23/hand-written-detection) | ML-based handwriting recognition | Python, OpenCV |
-
----
-
-### GitHub Stats
-
-![Shihas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhamedshihas23&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamedshihas23&layout=compact&hide_border=true)
-
----
-
-### Connect With Me
-
-<p>
-  📍 Kerala, India  | 
-  📧 <a href="mailto:muhamedshihas001@gmail.com">your@email.com</a>  | 
-  💼 <a href="linkedin.com/in/muhamed-shihas-535158217">LinkedIn</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
-
-
-<!--
 **Muhamedshihas23/Muhamedshihas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
