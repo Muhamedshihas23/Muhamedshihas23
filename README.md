@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&width=620&lines=Hi%2C+I'm+Muhamed+Shihas+%F0%9F%91%8B;Junior+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Ansible+%7C+AWS;Building+Reliable+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&width=620&lines=I'm+Muhamed+Shihas;Junior+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Ansible+%7C+AWS;Building+Reliable+Infrastructure" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,16 +9,14 @@
   <img src="https://img.shields.io/badge/MCA-Final%20Year-D24939?style=flat" />
 </p>
 
-<p align="center">
-  MCA Final Year @ LEAD College, Palakkad &nbsp;•&nbsp; DevOps Intern @ Cyber Square AI & Robotics, Kozhikode
-</p>
+
 
 ---
 
 ### About Me
 
 - Passionate about **CI/CD pipelines, container orchestration & Infrastructure as Code**
-- Hands-on with **Docker, Kubernetes, Ansible, Terraform & AWS** from real internship work
+- Hands-on with **Docker, Kubernetes, Ansible & AWS** from real internship work
 - Built Jenkins pipelines, multi-container Docker Compose apps & a blockchain node deployment
 - Organized and guided **1000+ participants** in outbound training events (JCI National)
 - Currently deepening skills in **Kubernetes, AWX & cloud-native monitoring**
@@ -40,7 +38,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 **Cloud, IaC & Monitoring**
@@ -87,7 +84,7 @@
 
 <p>
   📍 Kerala, India &nbsp;|&nbsp;
-  📧 <a href="mailto:muhamedshihas001@gmail.com">your@email.com</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:muhamedshihas001@gmail.com">muhamedshihas001@email.com</a> &nbsp;|&nbsp;
   💼 <a href="linkedin.com/in/muhamed-shihas-535158217">LinkedIn</a>
 </p>
 
